@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 Front-end
 - 🌱 I’m currently learning JavaScript
-<div align="center">
+<div align="center" style="display: inline">
   <a href="https://github.com/JoaoVictorG">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JoaoVictorG&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorG&layout=compact&langs_count=7&theme=dark"/>
