@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript
   
 ##
-  
+
 <div align="center" style="display: inline;">
   <a href="https://github.com/JoaoVictorG">
   <img height="170em" width="45%" src="https://github-readme-stats.vercel.app/api?username=JoaoVictorG&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
