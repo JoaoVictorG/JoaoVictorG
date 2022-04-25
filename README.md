@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 Front-end
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning TypeScript
   
 ##
 
