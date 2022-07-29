@@ -1,9 +1,3 @@
-### Hi there 👋
-- 🔭 Front-end
-- 🌱 I’m currently learning C#
-  
-##
-
 <!--<div align="center">
   <a href="https://github.com/JoaoVictorG">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVictorG&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
